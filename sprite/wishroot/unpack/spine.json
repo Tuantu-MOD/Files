@@ -1,0 +1,227 @@
+{
+  "skeleton": {
+    "images": "/Users/dgsw45/Desktop/LC/A_Tuantu_MOD/sprite/wishroot/krita"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "backfloor",
+      "bone": "root",
+      "attachment": "backfloor"
+    },
+    {
+      "name": "backvind2",
+      "bone": "root",
+      "attachment": "backvind2"
+    },
+    {
+      "name": "backvind1",
+      "bone": "root",
+      "attachment": "backvind1"
+    },
+    {
+      "name": "backroot2",
+      "bone": "root",
+      "attachment": "backroot2"
+    },
+    {
+      "name": "backroot1",
+      "bone": "root",
+      "attachment": "backroot1"
+    },
+    {
+      "name": "root2",
+      "bone": "root",
+      "attachment": "root2"
+    },
+    {
+      "name": "applereal",
+      "bone": "root",
+      "attachment": "applereal"
+    },
+    {
+      "name": "root",
+      "bone": "root",
+      "attachment": "root"
+    },
+    {
+      "name": "trunk",
+      "bone": "root",
+      "attachment": "trunk"
+    },
+    {
+      "name": "leaves",
+      "bone": "root",
+      "attachment": "leaves"
+    },
+    {
+      "name": "hole",
+      "bone": "root",
+      "attachment": "hole"
+    },
+    {
+      "name": "eye",
+      "bone": "root",
+      "attachment": "eye"
+    },
+    {
+      "name": "holevind",
+      "bone": "root",
+      "attachment": "holevind"
+    },
+    {
+      "name": "apple2",
+      "bone": "root",
+      "attachment": "apple2"
+    },
+    {
+      "name": "apple1",
+      "bone": "root",
+      "attachment": "apple1"
+    }
+  ],
+  "skins": {
+    "default": {
+      "backfloor": {
+        "backfloor": {
+          "x": 705.5,
+          "y": -1810.5,
+          "rotation": 0,
+          "width": 1553,
+          "height": 493
+        }
+      },
+      "backvind2": {
+        "backvind2": {
+          "x": 706.0,
+          "y": -1555.0,
+          "rotation": 0,
+          "width": 1196,
+          "height": 1124
+        }
+      },
+      "backvind1": {
+        "backvind1": {
+          "x": 779.5,
+          "y": -1548.5,
+          "rotation": 0,
+          "width": 1419,
+          "height": 1099
+        }
+      },
+      "backroot2": {
+        "backroot2": {
+          "x": 1047.5,
+          "y": -1768.0,
+          "rotation": 0,
+          "width": 379,
+          "height": 598
+        }
+      },
+      "backroot1": {
+        "backroot1": {
+          "x": 1212.5,
+          "y": -1781.5,
+          "rotation": 0,
+          "width": 355,
+          "height": 621
+        }
+      },
+      "root2": {
+        "root2": {
+          "x": 574.0,
+          "y": -1765.5,
+          "rotation": 0,
+          "width": 170,
+          "height": 123
+        }
+      },
+      "applereal": {
+        "applereal": {
+          "x": 658.5,
+          "y": -1734.5,
+          "rotation": 0,
+          "width": 93,
+          "height": 103
+        }
+      },
+      "root": {
+        "root": {
+          "x": 514.0,
+          "y": -1852.5,
+          "rotation": 0,
+          "width": 642,
+          "height": 265
+        }
+      },
+      "trunk": {
+        "trunk": {
+          "x": 397.5,
+          "y": -1729.0,
+          "rotation": 0,
+          "width": 237,
+          "height": 344
+        }
+      },
+      "leaves": {
+        "leaves": {
+          "x": 415.0,
+          "y": -1351.0,
+          "rotation": 0,
+          "width": 668,
+          "height": 508
+        }
+      },
+      "hole": {
+        "hole": {
+          "x": 477.0,
+          "y": -1519.5,
+          "rotation": 0,
+          "width": 190,
+          "height": 121
+        }
+      },
+      "eye": {
+        "eye": {
+          "x": 492.0,
+          "y": -1521.0,
+          "rotation": 0,
+          "width": 60,
+          "height": 60
+        }
+      },
+      "holevind": {
+        "holevind": {
+          "x": 480.5,
+          "y": -1520.5,
+          "rotation": 0,
+          "width": 193,
+          "height": 125
+        }
+      },
+      "apple2": {
+        "apple2": {
+          "x": 202.0,
+          "y": -1272.0,
+          "rotation": 0,
+          "width": 60,
+          "height": 66
+        }
+      },
+      "apple1": {
+        "apple1": {
+          "x": 708.5,
+          "y": -1479.5,
+          "rotation": 0,
+          "width": 59,
+          "height": 65
+        }
+      }
+    }
+  },
+  "animations": {}
+}

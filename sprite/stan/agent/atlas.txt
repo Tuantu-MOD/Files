@@ -1,0 +1,167 @@
+
+LongBirdWeapon.png
+size: 443,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 295, 51
+  size: 32, 64
+  orig: 64, 64
+  offset: 16, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 310, 2
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 361, 51
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 376, 3
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 186, 6
+  size: 35, 11
+  orig: 64, 32
+  offset: 14, 10
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 2, 3
+  size: 30, 2
+  orig: 64, 32
+  offset: 16, 15
+  index: -1
+HairBack
+  rotate: false
+  xy: 127, 11
+  size: 57, 72
+  orig: 64, 128
+  offset: 3, 28
+  index: -1
+HairFront
+  rotate: true
+  xy: 186, 19
+  size: 64, 57
+  orig: 64, 64
+  offset: 0, 2
+  index: -1
+Head
+  rotate: false
+  xy: 245, 31
+  size: 48, 52
+  orig: 64, 64
+  offset: 9, 6
+  index: -1
+L arm 1
+  rotate: true
+  xy: 372, 37
+  size: 12, 22
+  orig: 32, 32
+  offset: 9, 5
+  index: -1
+L arm 2
+  rotate: true
+  xy: 223, 2
+  size: 15, 23
+  orig: 32, 32
+  offset: 8, 5
+  index: -1
+L hand
+  rotate: true
+  xy: 427, 51
+  size: 12, 11
+  orig: 16, 16
+  offset: 2, 3
+  index: -1
+L leg 1
+  rotate: true
+  xy: 295, 36
+  size: 13, 24
+  orig: 32, 32
+  offset: 10, 3
+  index: -1
+L leg 2
+  rotate: true
+  xy: 396, 37
+  size: 12, 20
+  orig: 32, 32
+  offset: 10, 7
+  index: -1
+Mouth
+  rotate: false
+  xy: 34, 3
+  size: 5, 2
+  orig: 32, 32
+  offset: 14, 15
+  index: -1
+Note
+  rotate: true
+  xy: 248, 2
+  size: 27, 23
+  orig: 64, 64
+  offset: 17, 19
+  index: -1
+R arm 1
+  rotate: true
+  xy: 347, 37
+  size: 12, 23
+  orig: 32, 32
+  offset: 10, 5
+  index: -1
+R arm 2
+  rotate: false
+  xy: 293, 6
+  size: 15, 23
+  orig: 32, 32
+  offset: 8, 5
+  index: -1
+R hand
+  rotate: true
+  xy: 418, 37
+  size: 12, 13
+  orig: 16, 16
+  offset: 2, 2
+  index: -1
+R leg 1
+  rotate: true
+  xy: 321, 36
+  size: 13, 24
+  orig: 32, 32
+  offset: 9, 2
+  index: -1
+R leg 2
+  rotate: false
+  xy: 427, 65
+  size: 14, 18
+  orig: 32, 32
+  offset: 9, 7
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 273, 5
+  size: 18, 24
+  orig: 64, 64
+  offset: 23, 33
+  index: -1
+Weapon_GreatSword
+  rotate: false
+  xy: 2, 7
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1

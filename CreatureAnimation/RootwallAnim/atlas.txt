@@ -1,0 +1,13 @@
+
+rootwall.png
+size: 27,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wall
+  rotate: false
+  xy: 2, 2
+  size: 23, 75
+  orig: 23, 76
+  offset: 0, 0
+  index: -1

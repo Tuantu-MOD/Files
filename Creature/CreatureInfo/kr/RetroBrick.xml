@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <creature>
+    <info id ="120010">
+
+    <narration action="move">
+    .
+    </narration>
+
+    <narration action="mid1">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid2">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid3">
+    [
+    {.},
+    ]
+    </narration>
+    </info>
+
+        <observe level ="4">
+            <collection>
+            <codeNo openLevel ="0">O-03-01</codeNo>            
+            <name openLevel ="1">레트로 브릭</name>            
+            <portrait openLevel ="1">Custom/RetroBrick</portrait>
+            <riskLevel openLevel ="1">ZAYIN</riskLevel>
+            <openText>과거에서 온 오래된 유물</openText>
+            </collection>
+
+        <desc id="1" openLevel="0">
+            [{.}]
+        </desc>
+
+        <desc id="2" openLevel="1">
+            [{.}]
+        </desc>
+
+        <desc id="3" openLevel="2">
+            [{.}]
+        </desc>
+        <specialTipSize size="1">
+            <specialTip openLevel="0" key="0">관리법 없음</specialTip>        </specialTipSize>
+        </observe>
+    </creature>

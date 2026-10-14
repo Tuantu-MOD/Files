@@ -1,0 +1,59 @@
+{
+  "skeleton": {
+    "images": "/Users/dgsw45/Desktop/LC/A_Tuantu_MOD/sprite/smile/creature/unpack"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "Mouth",
+      "bone": "root",
+      "attachment": "Mouth"
+    },
+    {
+      "name": "Eye2",
+      "bone": "root",
+      "attachment": "Eye2"
+    },
+    {
+      "name": "Eye1",
+      "bone": "root",
+      "attachment": "Eye1"
+    }
+  ],
+  "skins": {
+    "default": {
+      "Mouth": {
+        "Mouth": {
+          "x": 199.5,
+          "y": -281.0,
+          "rotation": 0,
+          "width": 173,
+          "height": 72
+        }
+      },
+      "Eye2": {
+        "Eye2": {
+          "x": 266.0,
+          "y": -133.5,
+          "rotation": 0,
+          "width": 46,
+          "height": 99
+        }
+      },
+      "Eye1": {
+        "Eye1": {
+          "x": 136.0,
+          "y": -133.5,
+          "rotation": 0,
+          "width": 46,
+          "height": 99
+        }
+      }
+    }
+  },
+  "animations": {}
+}

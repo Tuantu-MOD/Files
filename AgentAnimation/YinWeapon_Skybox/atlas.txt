@@ -1,0 +1,167 @@
+
+Skybox_agent.png
+size: 1199,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1017, 96
+  size: 59, 115
+  orig: 115, 115
+  offset: 28, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 900, 67
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 884, 7
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 1017, 36
+  size: 58, 115
+  orig: 58, 115
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 1134, 93
+  size: 62, 20
+  orig: 115, 58
+  offset: 26, 18
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 796, 2
+  size: 53, 4
+  orig: 115, 58
+  offset: 29, 27
+  index: -1
+HairBack
+  rotate: false
+  xy: 796, 102
+  size: 102, 129
+  orig: 115, 230
+  offset: 6, 51
+  index: -1
+HairFront
+  rotate: false
+  xy: 900, 127
+  size: 115, 104
+  orig: 115, 115
+  offset: 0, 4
+  index: -1
+Head
+  rotate: false
+  xy: 796, 8
+  size: 86, 92
+  orig: 115, 115
+  offset: 16, 12
+  index: -1
+L arm 1
+  rotate: true
+  xy: 1047, 11
+  size: 23, 40
+  orig: 58, 58
+  offset: 16, 9
+  index: -1
+L arm 2
+  rotate: true
+  xy: 1156, 128
+  size: 27, 41
+  orig: 58, 58
+  offset: 14, 9
+  index: -1
+L hand
+  rotate: true
+  xy: 1134, 68
+  size: 23, 20
+  orig: 29, 29
+  offset: 3, 5
+  index: -1
+L leg 1
+  rotate: true
+  xy: 1150, 157
+  size: 24, 42
+  orig: 58, 58
+  offset: 18, 6
+  index: -1
+L leg 2
+  rotate: true
+  xy: 1089, 10
+  size: 24, 36
+  orig: 58, 58
+  offset: 17, 13
+  index: -1
+Lance
+  rotate: false
+  xy: 2, 2
+  size: 792, 229
+  orig: 792, 229
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 884, 97
+  size: 9, 3
+  orig: 58, 58
+  offset: 25, 27
+  index: -1
+Note
+  rotate: true
+  xy: 1150, 183
+  size: 48, 41
+  orig: 115, 115
+  offset: 31, 34
+  index: -1
+R arm 1
+  rotate: true
+  xy: 1156, 75
+  size: 22, 41
+  orig: 58, 58
+  offset: 18, 9
+  index: -1
+R arm 2
+  rotate: true
+  xy: 1156, 99
+  size: 27, 41
+  orig: 58, 58
+  offset: 15, 9
+  index: -1
+R hand
+  rotate: false
+  xy: 1161, 50
+  size: 21, 23
+  orig: 29, 29
+  offset: 4, 3
+  index: -1
+R leg 1
+  rotate: true
+  xy: 1001, 11
+  size: 23, 44
+  orig: 58, 58
+  offset: 16, 3
+  index: -1
+R leg 2
+  rotate: false
+  xy: 1134, 33
+  size: 25, 33
+  orig: 58, 58
+  offset: 16, 13
+  index: -1
+Shield
+  rotate: true
+  xy: 1017, 157
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<creature>
+  <script>Smile</script>
+  <stat>
+    <hp>체력(탈출 안 하면 없음)</hp>
+
+    <riskLevel>등급(1 :: 자인, 2 :: 테스, 3 :: 헤 ---)</riskLevel>
+
+    <maxWorkCount>1</maxWorkCount>
+
+    <workProb type="R">
+      <prob level="1">용기(본능) 레벨 1 작업 확률(0.1 = 10%)</prob>
+      <prob level="2">용기 레벨 2 작업 확률</prob>
+      <prob level="3">용기 레벨 3 작업 확률</prob>
+      <prob level="4">용기 레벨 4 작업 확률</prob>
+      <prob level="5">용기 레벨 5 작업 확률</prob>
+    </workProb>
+
+    <workProb type="W">
+      <prob level="1">지혜(통찰) 레벨 1 작업 확률</prob>
+      <prob level="2">지혜 레벨 2 작업 확률</prob>
+      <prob level="3">지혜 레벨 3 작업 확률</prob>
+      <prob level="4">지혜 레벨 4 작업 확률</prob>
+      <prob level="5">지혜 레벨 5 작업 확률</prob>
+    </workProb>
+
+    <workProb type="B">
+      <prob level="1">절제(애착) 레벨 1 작업 확률</prob>
+      <prob level="2">절제 레벨 2 작업 확률</prob>
+      <prob level="3">절제 레벨 3 작업 확률</prob>
+      <prob level="4">절제 레벨 4 작업 확률</prob>
+      <prob level="5">절제 레벨 5 작업 확률</prob>
+    </workProb>
+
+    <workProb type="P">
+      <prob level="1">정의(억압) 레벨 1 작업 확률</prob>
+      <prob level="2">정의 레벨 2 작업 확률</prob>
+      <prob level="3">정의 레벨 3 작업 확률</prob>
+      <prob level="4">정의 레벨 4 작업 확률</prob>
+      <prob level="5">정의 레벨 5 작업 확률</prob>
+    </workProb>
+
+    <qliphoth>최대 클리포트 카운터</qliphoth>
+
+    <workCooltime>작업 후 쿨타임</workCooltime>
+
+	<escapeable>탈출 가능 여부</escapeable>
+
+    <feelingStateCubeBounds>
+      <cube>나쁨 최대 박스 개수</cube>
+      <cube>보통 최대 박스 개수</cube>
+      <cube>좋음 최대 박스 개수</cube>
+    </feelingStateCubeBounds>
+
+    <workDamage type="작업 중 공격 유형" min="최소 데미지" max="최대 데미지" />
+
+    <workSpeed>작업 속도</workSpeed>
+
+    <speed>이동속도(탈출 안 하면 없음)</speed>
+
+    <observeInfo total="98">
+      <observeElement name="stat" cost="초상화 해금 비용" />
+      <observeElement name="defense" cost="탈출 정보 해금 비용" />
+      <observeElement name="work_r" cost="작업 해금 비용" />
+      <observeElement name="work_w" cost="7" />
+      <observeElement name="work_b" cost="7" />
+      <observeElement name="work_p" cost="7" />
+      <observeElement name="care_0" cost="관리법 해금 비용" />
+      <observeElement name="care_1" cost="6" />
+      <observeElement name="care_2" cost="6" />
+    </observeInfo>
+
+    <observeBonus level="1" type="prob">4</observeBonus>
+    <observeBonus level="2" type="speed">4</observeBonus>
+    <observeBonus level="3" type="prob">4</observeBonus>
+    <observeBonus level="4" type="speed">4</observeBonus>
+    <equipment level="장비 해금 레벨" cost="장비 비용" equipId="장비 id" />
+    <equipment level="장비 해금 레벨" cost="장비 비용" equipId="징비 id" />
+    <equipment level="에깊 해금 레벨" prob="획득 확률" equipId="에깊 id" />
+
+    <defense id="1">
+      <defenseElement type="R">R피해 내성</defenseElement>
+      <defenseElement type="W">W피해 내성</defenseElement>
+      <defenseElement type="B">B피해 내성</defenseElement>
+      <defenseElement type="P">P피해 내성</defenseElement>
+    </defense>
+  </stat>
+
+  <graph>
+    <node id="creature" x="-1.5" y="-1.7" type="creature" />
+    <node id="workspace" x="1.9" y="-1.8" type="workspace" />
+    <node id="outter" x="0" y="0" type="outterDoor" />
+    <node id="inner" x="2" y="-1.8" type="innerDoor" />
+    <edge node1="workspace" node2="inner" type="road" />
+    <edge node1="creature" node2="workspace" type="road" />
+  </graph>
+
+  <anim prefab="Custom/환상체이름Anim" x="-1" y="-2" />
+  <portrait src="Unit/creature/magicalGirl" />
+</creature>

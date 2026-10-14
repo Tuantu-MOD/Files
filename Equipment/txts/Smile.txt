@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="9200004" type="weapon">
+    <name>Smile_weapon_name</name>
+    <desc>Smile_weapon_desc</desc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>DangoCreature_Champion</sprite>
+    <specialWeaponAnim>DangoCreatureWeapon_Smile</specialWeaponAnim>
+    <animation>Attack1</animation>
+
+    <damage type="R" min="12" max="16">
+    </damage>
+
+
+    <range>5</range>
+
+
+    <script>SmileWeapon</script>
+    <maxNum>3</maxNum>
+    <attackSpeed>8</attackSpeed>
+    <grade>4</grade>
+  </equipment>
+
+  <equipment id="9200005" type="armor">
+    <name>Smile_armor_name</name>
+    <desc>Smile_armor_desc</desc>
+
+    <armorId>9200004</armorId>
+
+    <defense>
+      <defenseElement type="R">0.5</defenseElement>
+      <defenseElement type="W">1.7</defenseElement>
+      <defenseElement type="B">0.7</defenseElement>
+      <defenseElement type="P">1.2</defenseElement>
+    </defense>
+
+    <grade>3</grade>
+    <maxNum>3</maxNum>
+  </equipment>
+</equipment_list>

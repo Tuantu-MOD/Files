@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+   <text id="Skybox_weapon_name">스카이피어서</text>
+   <text id="Skybox_weapon_desc">...</text>
+   <text id="Skybox_weapon_specialdesc">
+   -기본 공격 적중 시 활공 1을 얻음.
+   -활공이 10 이상이라면 수차례 찔러 점점 강해지는 W피해의 공격을 함.
+   -활공이 15 이상이라면 강화되어 P 피해를 입힘.
+   -활공이 20 이상이라면 내려찍어 광역 P 35피해를 입히고 0으로 초기화됨.
+   -방패공격을 하여 P 15 피해를 입히고 활공 5를 얻을 수 있음.
+   </text>
+
+   <text id="Skybox_armor_name">스카이피어서</text>
+   <text id="Skybox_armor_desc">...</text>
+
+   <text id="Skybox_gift_name">스카이피어서</text>
+   <text id="Skybox_gift_desc">지혜 +4 이동속도 +2
+   -해당 환상체의 방어구와 함께 장착 시 해당 환상체의 무가가 강화됨</text>
+</localize>

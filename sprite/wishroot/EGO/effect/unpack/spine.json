@@ -1,0 +1,59 @@
+{
+  "skeleton": {
+    "images": "C:/Users/user/Desktop/LC/Tuantu_MOD/NO-CODE/sprite/wishroot/EGO/effect/unpack"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "main",
+      "bone": "root",
+      "attachment": "main",
+      "blend": "normal"
+    },
+    {
+      "name": "branch2",
+      "bone": "root",
+      "attachment": "branch2",
+      "blend": "normal"
+    },
+    {
+      "name": "branch1",
+      "bone": "root",
+      "attachment": "branch1",
+      "blend": "normal"
+    }
+  ],
+  "skins": {
+    "default": {
+      "main": {
+        "main": {
+          "x": 1098.0,
+          "y": -1046.0,
+          "width": 786,
+          "height": 1414
+        }
+      },
+      "branch2": {
+        "branch2": {
+          "x": 1720.5,
+          "y": -1229.5,
+          "width": 429,
+          "height": 1041
+        }
+      },
+      "branch1": {
+        "branch1": {
+          "x": 463.0,
+          "y": -1229.5,
+          "width": 452,
+          "height": 1041
+        }
+      }
+    }
+  },
+  "animations": {}
+}

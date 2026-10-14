@@ -1,0 +1,27 @@
+
+Smile.png
+size: 164,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye1
+  rotate: true
+  xy: 2, 2
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 83, 2
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 41
+  size: 138, 58
+  orig: 138, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <creature>
+    <info id ="120012">
+
+    <narration action="move">
+    .
+    </narration>
+
+    <narration action="mid1">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid2">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid3">
+    [
+    {.},
+    ]
+    </narration>
+    </info>
+
+        <observe level ="4">
+            <collection>
+            <codeNo openLevel ="0">O-04-34</codeNo>            
+            <name openLevel ="1">자작나무</name>            
+            <portrait openLevel ="1">Custom/BirchTree</portrait>
+            <riskLevel openLevel ="1">TETH</riskLevel>
+            <openText>이건 분명 가장 아름다운 나무 일거야</openText>
+            </collection>
+
+        <desc id="1" openLevel="0">
+            [{.}]
+        </desc>
+
+        <desc id="2" openLevel="1">
+            [{.}]
+        </desc>
+
+        <desc id="3" openLevel="2">
+            [{.}]
+        </desc>
+        <specialTipSize size="2">
+            <specialTip openLevel="0" key="0">절제 1등급 직원이 작업을 시작하자 직원이 사망하였다.</specialTip>
+            <specialTip openLevel="1" key="1">정의 2등급 이하인 직원이 억압 작업을 마치자 똑같이 사망하였다.</specialTip>        </specialTipSize>
+        </observe>
+    </creature>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="9200014" type="weapon">
+    <name>WorldMachine_weapon_name</name>
+    <desc>WorldMachine_weapon_desc</desc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>PinkCorps_WorldMachine</sprite>
+    <specialWeaponAnim>PinkCorpsWeapon_WorldMachine</specialWeaponAnim>
+    <animation>Attack_Nor</animation>
+
+    <require type="B">4</require>
+
+    <damage type="B" min="40" max="75">
+    </damage>
+
+    <range>10</range>
+
+
+    <script>WorldMachineWeapon</script>
+    <maxNum>2</maxNum>
+    <attackSpeed>5</attackSpeed>
+    <grade>4</grade>
+  </equipment>
+
+  <equipment id="9200015" type="armor">
+    <name>WorldMachine_armor_name</name>
+    <desc>WorldMachine_armor_desc</desc>
+
+    <require type="B">3</require>
+    <armorId>9200015</armorId>
+
+    <defense>
+      <defenseElement type="R">0.9</defenseElement>
+      <defenseElement type="W">0.5</defenseElement>
+      <defenseElement type="B">0.2</defenseElement>
+      <defenseElement type="P">0.9</defenseElement>
+    </defense>
+
+    <grade>4</grade>
+    <maxNum>2</maxNum>
+  </equipment>
+
+  <equipment id="9200016" type="special">
+
+    <name>WorldMachine_gift_name</name>
+    <desc>WorldMachine_gift_desc</desc>
+
+    <attachPos>righthand</attachPos>
+    <attachType>add</attachType>
+
+    <bonus>
+      <mental>4</mental>
+      <cubeSpeed>4</cubeSpeed>
+      <workProb>4</workProb>
+    </bonus>
+  </equipment>
+</equipment_list>

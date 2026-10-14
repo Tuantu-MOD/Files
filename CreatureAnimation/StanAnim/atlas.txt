@@ -1,0 +1,62 @@
+
+stan.png
+size: 4022,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 2306, 468
+  size: 378, 1187
+  orig: 378, 1187
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 2306, 468
+  size: 378, 1187
+  orig: 378, 1187
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 844, 1186
+  orig: 844, 1186
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 1190, 5
+  size: 1114, 841
+  orig: 1114, 841
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 3289, 62
+  size: 404, 156
+  orig: 404, 156
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 3495, 287
+  size: 525, 559
+  orig: 527, 559
+  offset: 2, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 2306, 3
+  size: 463, 981
+  orig: 463, 981
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 2306, 3
+  size: 463, 981
+  orig: 463, 981
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<creature_list>
+    <creature src="Skybox" name="Skybox" id="120009">
+    <stat>Skybox_stat</stat>
+    </creature>
+</creature_list>

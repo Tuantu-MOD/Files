@@ -1,0 +1,73 @@
+{
+  "skeleton": {
+    "images": "/Users/dgsw45/Desktop/LC/A_Tuantu_MOD/sprite/wishroot/EGO/weapon/unpack"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "leaves",
+      "bone": "root",
+      "attachment": "leaves"
+    },
+    {
+      "name": "hammer",
+      "bone": "root",
+      "attachment": "hammer"
+    },
+    {
+      "name": "sword",
+      "bone": "root",
+      "attachment": "sword"
+    },
+    {
+      "name": "sling",
+      "bone": "root",
+      "attachment": "sling"
+    }
+  ],
+  "skins": {
+    "default": {
+      "leaves": {
+        "leaves": {
+          "x": 739.0,
+          "y": -1890.5,
+          "rotation": 0,
+          "width": 364,
+          "height": 239
+        }
+      },
+      "hammer": {
+        "hammer": {
+          "x": 361.0,
+          "y": -1535.0,
+          "rotation": 0,
+          "width": 364,
+          "height": 820
+        }
+      },
+      "sword": {
+        "sword": {
+          "x": 1628.5,
+          "y": -1602.5,
+          "rotation": 0,
+          "width": 345,
+          "height": 699
+        }
+      },
+      "sling": {
+        "sling": {
+          "x": 1189.0,
+          "y": -1519.0,
+          "rotation": 0,
+          "width": 288,
+          "height": 380
+        }
+      }
+    }
+  },
+  "animations": {}
+}

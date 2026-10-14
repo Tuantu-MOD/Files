@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="9200006" type="weapon">
+    <name>Sickler_weapon_name</name>
+    <desc>Sickler_weapon_desc</desc>
+    <specialDesc>Sickler_weapon_sp_Desc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>BigBadWolf_Apostle</sprite>
+    <specialWeaponAnim>NothingWeapon_Sickler</specialWeaponAnim>
+
+    <animation>Attack1</animation>
+    <animation>Attack2</animation>
+    <animation>Attack3</animation>
+    
+    <require type="R">4</require>
+    <require type="B">3</require>
+
+    <damage type="R" min="8" max="10">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+    <damage type="R" min="10" max="13">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+    <damage type="R" min="14" max="18">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+    <damage type="R" min="18" max="23">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+    <damage type="R" min="22" max="28">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+    <damage type="R" min="26" max="33">
+      <soundInfo type="damage">SicklerWeapon_Swing</soundInfo>
+    </damage>
+
+
+    <range>3</range>
+
+
+    <script>SicklerWeapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>4</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+
+  <equipment id="9200007" type="special">
+    <name>Sickler_gift_name</name>
+    <desc>Sickler_gift_desc</desc>
+    <attachPos>ribborn</attachPos>
+    <attachType>add</attachType>
+
+    <bonus>
+      <hp>4</hp>
+      <mental>2</mental>
+      <movement>-4</movement>
+    </bonus>
+
+    <sprite>Sickler_gift</sprite>
+
+  </equipment>
+</equipment_list>

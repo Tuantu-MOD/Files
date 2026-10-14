@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+   <text id="Stan_weapon_name">발톱</text>
+   <text id="Stan_weapon_desc">검은 짐승의 발톱이다. 베이면 아프다.</text>
+   <text id="Stan_weapon_sp_Desc">Null!</text>
+</localize>

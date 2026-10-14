@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+	<info id ="120001">
+
+		<narration action="move">
+			직원 #0이 작업을 시작하기 위해 $0의 격리실에 들어갑니다.
+		</narration>
+
+		<narration action="mid1">
+			[
+			{직원 #0은 밝은 사과를 바라보고 있습니다.},
+			{$0 앞에 놓여있는 사과는 발광합니다.},
+			]
+		</narration>
+
+		<narration action="mid2">
+			[
+			{직원 #0은 눈 앞의 사과를 먹고싶다는 생각이 들었습니다.},
+			]
+		</narration>
+
+		<narration action="mid3">
+			[
+			{"너의 소원을 이뤄줄 수 있어".},
+			]
+		</narration>
+	</info>
+
+	<observe level ="4">
+		<collection>
+			<codeNo openLevel ="0">O-04-82</codeNo>
+			<name openLevel ="1">사과나무</name>
+			<name openLevel ="2">소망근</name>
+			<portrait openLevel ="1">Custom/Wishroot</portrait>
+			<riskLevel openLevel ="1">WAW</riskLevel>
+			<openText>소망한다면, 그대의 영혼은 어둠 속에서 뿌리내리리라.</openText>
+		</collection>
+
+<desc id="1" openLevel="0">
+[{.}]
+</desc>
+		<specialTipSize size="5">
+			<specialTip openLevel="0" key="0">본능작업을 한 직원은 사과를 먹었다.</specialTip>
+			<specialTip openLevel="1" key="1">작업 결과가 나쁨인 경우 직원은 환상체의 필요성을 느끼며 관리법 1과 같은 행동을 했다.</specialTip>
+			<specialTip openLevel="2" key="2">사과를 먹은 직원은 무작위 능력치를 10을 하루동안 얻었으며 그동안 10초마다 Pale 피해를 입었다.</specialTip>
+			<specialTip openLevel="3" key="3">이미 사과를 먹은 직원이 하나를 다시 먹자 체력과 상관없이 즉시 몸이 폭발하며 기생생물이 튀어나왔다.</specialTip>
+			<specialTip openLevel="4" key="4">사과의 효과가 지속되는 동안 직원이 사망한 경우에도 같은 결과가 나타났다.</specialTip>
+		</specialTipSize>
+	</observe>
+</creature>

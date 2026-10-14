@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<creature>
+  <stat>
+    <hp>400</hp>
+    <speed>4</speed>
+    <defense id="1">
+      <!--parasite-->
+      <defenseElement type="R">1.2</defenseElement>
+      <defenseElement type="W">0.5</defenseElement>
+      <defenseElement type="B">0.7</defenseElement>
+      <defenseElement type="P">0.25</defenseElement>
+    </defense>
+  </stat>
+
+  <anim prefab="Custom/ParasiteAnim" x="-1" y="-2"/>
+
+  <attackType openLevel="1">Pale</attackType>
+  <riskLevel openLevel="1">WAW</riskLevel>
+
+  <script>Parasite</script>
+</creature>

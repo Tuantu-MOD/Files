@@ -1,0 +1,160 @@
+
+Sickler.png
+size: 746,2261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 494, 889
+  size: 246, 205
+  orig: 246, 205
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: true
+  xy: 476, 28
+  size: 167, 141
+  orig: 167, 141
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 698, 603
+  size: 161, 46
+  orig: 161, 46
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 561, 2138
+  size: 182, 121
+  orig: 182, 121
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 561, 1652
+  size: 173, 236
+  orig: 173, 236
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: true
+  xy: 524, 1480
+  size: 170, 214
+  orig: 170, 214
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: false
+  xy: 442, 197
+  size: 226, 187
+  orig: 226, 187
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 365, 5
+  size: 190, 109
+  orig: 190, 109
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 670, 218
+  size: 166, 50
+  orig: 166, 50
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 619, 116
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: true
+  xy: 464, 578
+  size: 186, 232
+  orig: 186, 232
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 561, 1890
+  size: 174, 246
+  orig: 174, 246
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1344
+  size: 486, 520
+  orig: 486, 520
+  offset: 0, 0
+  index: -1
+chain1
+  rotate: true
+  xy: 2, 1004
+  size: 338, 490
+  orig: 338, 490
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: true
+  xy: 2, 639
+  size: 363, 460
+  orig: 363, 460
+  offset: 0, 0
+  index: -1
+chain3
+  rotate: false
+  xy: 2, 338
+  size: 438, 299
+  orig: 438, 299
+  offset: 0, 0
+  index: -1
+chain4
+  rotate: true
+  xy: 524, 1096
+  size: 382, 213
+  orig: 382, 213
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 464, 766
+  size: 274, 121
+  orig: 274, 121
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 524, 1722
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 334, 361
+  orig: 334, 361
+  offset: 0, 0
+  index: -1
+shackles_body
+  rotate: true
+  xy: 2, 1832
+  size: 427, 557
+  orig: 427, 557
+  offset: 0, 0
+  index: -1
+shackles_head
+  rotate: false
+  xy: 442, 386
+  size: 294, 190
+  orig: 294, 190
+  offset: 0, 0
+  index: -1

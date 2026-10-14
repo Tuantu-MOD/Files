@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+    <info id ="120008">
+        <narration action="move">
+        .
+        </narration>
+
+        <narration action="mid1">
+        [
+        {.},
+        ]
+        </narration>
+
+        <narration action="mid2">
+        [
+        {.},
+        ]
+        </narration>
+
+        <narration action="mid3">
+        [
+        {.},
+        ]
+        </narration>
+    </info>
+
+        <observe level ="4">
+            <collection>
+                <codeNo openLevel ="0">R-01-21-1</codeNo>
+                <name openLevel ="0">그림자 사냥꾼</name>
+                <portrait openLevel ="0">Custom/Sickler</portrait>
+                <riskLevel openLevel ="0">WAW</riskLevel>
+            </collection>
+
+            <desc id="1" openLevel="0">
+                [{.}]
+            </desc>
+
+            <desc id="2" openLevel="1">
+                [{.}]
+            </desc>
+
+            <desc id="3" openLevel="2">
+                [{.}]
+            </desc>
+            <specialTipSize size="1">
+                <specialTip openLevel="0" key="0">직원이 R-01-21의 E.G.O 기프트를 장착하지 않았다면 피아식별을 하지 않고 공격한다.</specialTip>
+            </specialTipSize>
+        </observe>
+    </creature>

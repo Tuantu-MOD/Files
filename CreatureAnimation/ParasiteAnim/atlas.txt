@@ -1,0 +1,139 @@
+
+parasite.png
+size: 320,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 55
+  size: 103, 205
+  orig: 205, 205
+  offset: 51, 0
+  index: -1
+CoatLeft
+  rotate: false
+  xy: 107, 55
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: false
+  xy: 209, 369
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 177, 411
+  size: 16, 16
+  orig: 205, 102
+  offset: 142, 43
+  index: -1
+HairFront
+  rotate: false
+  xy: 2, 429
+  size: 205, 145
+  orig: 205, 205
+  offset: 0, 30
+  index: -1
+Head
+  rotate: false
+  xy: 2, 262
+  size: 173, 165
+  orig: 205, 205
+  offset: 16, 20
+  index: -1
+L arm 1
+  rotate: false
+  xy: 269, 128
+  size: 38, 70
+  orig: 102, 102
+  offset: 32, 16
+  index: -1
+L arm 2
+  rotate: true
+  xy: 39, 6
+  size: 47, 72
+  orig: 102, 102
+  offset: 27, 15
+  index: -1
+L hand
+  rotate: false
+  xy: 191, 10
+  size: 40, 34
+  orig: 51, 51
+  offset: 5, 9
+  index: -1
+L leg 1
+  rotate: false
+  xy: 211, 46
+  size: 41, 75
+  orig: 102, 102
+  offset: 30, 13
+  index: -1
+L leg 2
+  rotate: false
+  xy: 254, 58
+  size: 40, 63
+  orig: 102, 102
+  offset: 31, 20
+  index: -1
+Mouth
+  rotate: true
+  xy: 313, 560
+  size: 14, 5
+  orig: 102, 102
+  offset: 44, 49
+  index: -1
+Note
+  rotate: false
+  xy: 211, 200
+  size: 85, 74
+  orig: 205, 205
+  offset: 60, 66
+  index: -1
+R arm 1
+  rotate: false
+  xy: 177, 277
+  size: 70, 90
+  orig: 102, 102
+  offset: 16, 7
+  index: -1
+R arm 2
+  rotate: false
+  xy: 249, 276
+  size: 62, 91
+  orig: 102, 102
+  offset: 20, 6
+  index: -1
+R hand
+  rotate: false
+  xy: 2, 2
+  size: 35, 51
+  orig: 51, 51
+  offset: 8, 0
+  index: -1
+R leg 1
+  rotate: true
+  xy: 113, 12
+  size: 41, 76
+  orig: 102, 102
+  offset: 30, 13
+  index: -1
+R leg 2
+  rotate: true
+  xy: 254, 10
+  size: 46, 56
+  orig: 102, 102
+  offset: 28, 23
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 211, 123
+  size: 56, 75
+  orig: 205, 205
+  offset: 74, 65
+  index: -1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+   <text id="Wishroot_weapon_name">넥서스</text>
+   <text id="Wishroot_weapon_desc">.</text>
+   <text id="Wishroot_weapon_sp_desc">3번째 공격마다 특수한 공격 사용. 이 공격에 누적 적중된 적의 수에 따라 3번째 특수 공격이 변경됨.&#10;1~4 :: 새총을 발사해 앞의 모든 적에게 7~9의 Pale 피해를 3번 줌.&#10;5++ :: 대검을 휘둘러 적에게 35의 Pale 피해를 2번 줌.</text>
+   <text id="Wishroot_armor_name">넥서스</text>
+   <text id="Wishroot_armor_desc">.</text>
+   <text id="Wishroot_gift_name">넥서스</text>
+   <text id="Wishroot_gift_desc">정신력 +4&#10;이동속도 +1</text>
+</localize>

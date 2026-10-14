@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <creature>
+    <info id ="120009">
+
+    <narration action="move">
+    .
+    </narration>
+
+    <narration action="mid1">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid2">
+    [
+    {.},
+    ]
+    </narration>
+
+    <narration action="mid3">
+    [
+    {.},
+    ]
+    </narration>
+    </info>
+
+        <observe level ="4">
+            <collection>
+            <codeNo openLevel ="0">D-06-58</codeNo>            
+            <name openLevel ="1">스카이박스</name>            
+            <portrait openLevel ="1">Custom/Skybox</portrait>
+            <riskLevel openLevel ="1">WAW</riskLevel>
+            <openText>아마도 끝이 없겠지만, 아무리 큰 것이라도 담을 수 있습니다.</openText>
+            </collection>
+
+        <desc id="1" openLevel="0">
+            [{.}]
+        </desc>
+
+        <desc id="2" openLevel="1">
+            [{.}]
+        </desc>
+
+        <desc id="3" openLevel="2">
+            [{.}]
+        </desc>
+        <specialTipSize size="6">
+            <specialTip openLevel="0" key="0">작업 결과가 나쁨일 때 높은 확률로 클리포트카운터가 감소하였다.</specialTip>
+            <specialTip openLevel="1" key="1">작업결과가 좋음일 때 낮은 확률로 클리포트카운터가 감소하였다.</specialTip>
+            <specialTip openLevel="2" key="2">자신의 의해 클리포트카운터가 감소할 때마다 EGO에 영향을 미치지 않는 받는 무작위 공격 유형이 증폭되었다.</specialTip>
+            <specialTip openLevel="3" key="3">작업 중 직원이 사망하였다면 클리포트카운터가 증가하였다.</specialTip>
+            <specialTip openLevel="4" key="4">자신의 의해 클리포트카운터가 감소할 때마다 증폭된 피해유형에 따라 D-06-58의 색이 변화하였다.</specialTip>
+            <specialTip openLevel="5" key="5">클리포트카운터가 0이라면 작업을 마칠 때마다 같은 부서의 무작위 환상체의 클리포트카운터가 1 감소했다.</specialTip>        </specialTipSize>
+        </observe>
+    </creature>

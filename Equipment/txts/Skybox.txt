@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+<equipment id="9200008" type="weapon">
+    <name>Skybox_weapon_name</name>
+    <desc>Skybox_weapon_desc</desc>
+    <specialDesc>Skybox_weapon_specialdesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>RedHood_Skybox</sprite>
+    <specialWeaponAnim>YinWeapon_Skybox</specialWeaponAnim>
+    <animation>Attack_Basic</animation>
+    <animation>Attack_SkyThrust</animation>
+    <animation>Attack_SoaringSky</animation>
+    <animation>Attack_AerialBash</animation>
+    <animation>Attack_AerialThrust</animation>
+
+    <require type="W">5</require>
+    <require type="P">3</require>
+
+    <damage type="W" min="12" max="15">
+    </damage>
+
+    <damage type="W" min="1" max="1">
+    </damage>
+
+    <damage type="P" min="35" max="35">
+    </damage>
+
+    <damage type="P" min="15" max="15">
+    </damage>
+
+    <damage type="P" min="3" max="5">
+    </damage>
+
+    <range>3</range>
+
+
+    <script>SkyboxWeapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>2</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+
+  <equipment id="9200009" type="armor">
+    <name>Skybox_armor_name</name>
+    <desc>Skybox_armor_desc</desc>
+
+    <require type="level">3</require>
+    <armorId>9000009</armorId>
+
+    <defense>
+      <defenseElement type="R">0.9</defenseElement>
+      <defenseElement type="W">0.4</defenseElement>
+      <defenseElement type="B">0.6</defenseElement>
+      <defenseElement type="P">1.0</defenseElement>
+    </defense>
+
+    <grade>4</grade>
+    <maxNum>3</maxNum>
+  </equipment>
+
+  <equipment id="9200010" type="special">
+
+    <name>Skybox_gift_name</name>
+    <desc>Skybox_gift_desc</desc>
+
+    <attachPos>head</attachPos>
+    <attachType>add</attachType>
+
+    <bonus>
+      <mental>4</mental>
+      <movement>2</movement>
+    </bonus>
+
+    <sprite>Skybox_gift</sprite>
+
+  </equipment>
+</equipment_list>

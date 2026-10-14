@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<creature>
+  <stat>
+    <hp>150</hp>
+    <speed>4</speed>
+    <defense id="1">
+      <!--rootwall-->
+      <defenseElement type="R">0.9</defenseElement>
+      <defenseElement type="W">0.6</defenseElement>
+      <defenseElement type="B">1.3</defenseElement>
+      <defenseElement type="P">0.5</defenseElement>
+    </defense>
+  </stat>
+  <anim prefab="Custom/RootwallAnim" x="-1" y="-2"/>
+
+  <riskLevel openLevel="1">TETH</riskLevel>
+
+  <script>Rootwall</script>
+</creature>

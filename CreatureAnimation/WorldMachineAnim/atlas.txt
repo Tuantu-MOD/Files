@@ -1,0 +1,48 @@
+
+WorldMachine.png
+size: 800,1144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 387
+  size: 755, 457
+  orig: 755, 457
+  offset: 0, 0
+  index: -1
+Bridge
+  rotate: true
+  xy: 619, 146
+  size: 474, 158
+  orig: 474, 158
+  offset: 0, 0
+  index: -1
+PoleBack
+  rotate: false
+  xy: 461, 622
+  size: 337, 520
+  orig: 337, 520
+  offset: 0, 0
+  index: -1
+PoleFront
+  rotate: false
+  xy: 461, 622
+  size: 337, 520
+  orig: 337, 520
+  offset: 0, 0
+  index: -1
+TV
+  rotate: true
+  xy: 2, 2
+  size: 383, 615
+  orig: 383, 615
+  offset: 0, 0
+  index: -1
+Warning
+  rotate: false
+  xy: 461, 452
+  size: 64, 168
+  orig: 64, 168
+  offset: 0, 0
+  index: -1

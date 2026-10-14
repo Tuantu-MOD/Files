@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+	<info id ="120000">
+
+		<narration action="move">
+			직원 #0이 작업을 시작하기 위해 $0의 격리실에 들어갑니다.
+		</narration>
+
+		<narration action="mid1">
+			[
+			{$0은 그저 직원을 바라보고 있습니다.},
+			{직원 #0은 이유를 알 수 없는 공포를 느꼈습니다.},
+			]
+		</narration>
+
+		<narration action="mid2">
+			[
+			{직원 #0은 무언가 섬뜩한 소리를 들었습니다.},
+			{바람소리가 들리지 않기 시작합니다.},
+			]
+		</narration>
+
+		<narration action="mid3">
+			[
+			{직원 #0은 무언가가 지켜보고 있다는 느낌이 들었습니다.},
+			{직원 #0은 비명소리가 들린다고 합니다.},
+			]
+		</narration>
+	</info>
+
+	<observe level ="4">
+		<collection>
+			<codeNo openLevel ="0">R-02-52</codeNo>
+			<name openLevel ="1">괴물</name>
+			<name openLevel ="2">실험체</name>
+			<name openLevel ="3">스탠</name>
+			<portrait openLevel ="1">Custom/Stan</portrait>
+			<riskLevel openLevel ="1">TETH</riskLevel>
+			<openText>당신은 무언가가 지켜보고 있다고 느낍니다...</openText>
+		</collection>
+
+<desc id="1" openLevel="0">
+[{당신은 무언가가 지켜보고 있다고 느낍니다... R-02-52를 관리했던 직원들은 관리 중 계속 누군가가 지켜보고 있다는 느낌이 들었고 섬뜩한 소리가 들린다고 합니다. 어디에서 왜 그런 느낌과 소리가 나는지는 알 수 없었습니다.}]
+</desc>
+
+<desc id="2" openLevel="1">
+[{기록에 따르면 R-02-52는 어떤 회사의 실험체였습니다.}]
+</desc>
+
+<desc id="3" openLevel="2">
+[{&#10;'저 짐승은 골칫덩이군.&#10;하지만 햇볕을 무서워 한다는거, 그건 알 수 있겠다.&#10;밤에만 조심하면 될 것 같군.&#10;폭풍우가 없다면...'&#10;-어느 섬의 노트}]
+</desc>
+
+		<specialTipSize size="2">
+			<specialTip openLevel="0" key="0">작업 결과가 보통일 때 보통 확률로 클리포트 카운터가 감소한다.</specialTip>
+			<specialTip openLevel="1" key="1">작업 결과가 나쁠 경우 클리포스 카운터가 감소한다.</specialTip>
+		</specialTipSize>
+	</observe>
+</creature>

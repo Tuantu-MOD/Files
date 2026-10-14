@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="9200011" type="weapon">
+    <name>RetroBrick_weapon_name</name>
+    <desc>RetroBrick_weapon_desc</desc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>Nothing_RetroBrick</sprite>
+    <specialWeaponAnim>NothingWeapon_RetroBrick</specialWeaponAnim>
+
+    <animation>Attack_basic</animation>
+
+    <damage type="W" min="3" max="7">
+    </damage>
+
+
+    <range>1.8</range>
+
+
+    <script>RetroBrickWeapon</script>
+    <maxNum>5</maxNum>
+    <attackSpeed>4</attackSpeed>
+    <grade>1</grade>
+  </equipment>
+
+  <equipment id="9200012" type="armor">
+    <name>RetroBrick_armor_name</name>
+    <desc>RetroBrick_armor_desc</desc>
+
+    <armorId>900002</armorId>
+
+    <defense>
+      <defenseElement type="R">0.9</defenseElement>
+      <defenseElement type="W">0.8</defenseElement>
+      <defenseElement type="B">1.4</defenseElement>
+      <defenseElement type="P">2.0</defenseElement>
+    </defense>
+
+    <grade>1</grade>
+    <maxNum>5</maxNum>
+
+  </equipment>
+
+  <equipment id="9200013" type="special">
+    <name>RetroBrick_gift_name</name>
+    <desc>RetroBrick_gift_desc</desc>
+
+    <attachPos>head</attachPos>
+    <attachType>add</attachType>
+
+    <bonus>
+      <mental>2</mental>
+    </bonus>
+
+    <sprite>RetroBrick_gift</sprite>
+
+  </equipment>
+</equipment_list>

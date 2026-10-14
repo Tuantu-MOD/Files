@@ -1,0 +1,13 @@
+
+RetroBrick.png
+size: 809,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cube
+  rotate: false
+  xy: 2, 2
+  size: 805, 776
+  orig: 805, 776
+  offset: 0, 0
+  index: -1

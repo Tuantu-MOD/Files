@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+    <info id ="120002">
+        <narration action="move">
+        .
+        </narration>
+
+        <narration action="mid1">
+        [
+        {.},
+        ]
+        </narration>
+
+        <narration action="mid2">
+        [
+        {.},
+        ]
+        </narration>
+
+        <narration action="mid3">
+        [
+        {.},
+        ]
+        </narration>
+    </info>
+
+        <observe level ="4">
+            <collection>
+                <codeNo openLevel ="0">R-01-21</codeNo>
+                <name openLevel ="1">시클러</name>
+                <portrait openLevel ="1">Custom/Sickler</portrait>
+                <riskLevel openLevel ="1">ALEPH</riskLevel>
+                <openText>격리실 밖에서도 그것의 우는 소리가 들린다.</openText>
+            </collection>
+
+            <desc id="1" openLevel="0">
+                [{.}]
+            </desc>
+
+            <desc id="2" openLevel="1">
+                [{.}]
+            </desc>
+
+            <desc id="3" openLevel="2">
+                [{.}]
+            </desc>
+            <specialTipSize size="4">
+                <specialTip openLevel="0" key="0">작업 결과가 보통이거나 나쁨일 때 클리포트 카운터가 감소했다.</specialTip>
+                <specialTip openLevel="1" key="1">본능 작업이 완료되자 탈출했다.</specialTip>
+                <specialTip openLevel="2" key="2">탈출 이후 처음으로 만난 적을 발견할 시 그 공간에 지속적인 2의 W피해를 주는 비명을 질렀다.</specialTip>
+                <specialTip openLevel="3" key="3">적을 처치할수록 점점 폭력적이고 빨라졌다.</specialTip>
+            </specialTipSize>
+        </observe>
+    </creature>

@@ -1,0 +1,20 @@
+
+BirchTree.png
+size: 1492,869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 869, 865
+  orig: 869, 865
+  offset: 0, 0
+  index: -1
+Leaves
+  rotate: true
+  xy: 873, 185
+  size: 682, 617
+  orig: 682, 617
+  offset: 0, 0
+  index: -1

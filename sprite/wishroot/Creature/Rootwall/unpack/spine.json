@@ -1,0 +1,31 @@
+{
+  "skeleton": {
+    "images": "/Users/dgsw45/Desktop/LC/A_Tuantu_MOD/sprite/wishroot/Creature/Rootwall"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "RabbitField.png",
+      "bone": "root",
+      "attachment": "RabbitField.png"
+    }
+  ],
+  "skins": {
+    "default": {
+      "RabbitField.png": {
+        "RabbitField.png": {
+          "x": 47.0,
+          "y": -687.5,
+          "rotation": 0,
+          "width": 90,
+          "height": 303
+        }
+      }
+    }
+  },
+  "animations": {}
+}

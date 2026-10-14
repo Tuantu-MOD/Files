@@ -1,0 +1,104 @@
+
+wishroot.png
+size: 952,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple1
+  rotate: false
+  xy: 679, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+apple2
+  rotate: true
+  xy: 660, 3
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+applereal
+  rotate: true
+  xy: 912, 57
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+backroot1
+  rotate: true
+  xy: 789, 195
+  size: 89, 155
+  orig: 89, 155
+  offset: 0, 0
+  index: -1
+backroot2
+  rotate: true
+  xy: 660, 20
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+backvind1
+  rotate: false
+  xy: 2, 9
+  size: 355, 275
+  orig: 355, 275
+  offset: 0, 0
+  index: -1
+backvind2
+  rotate: false
+  xy: 359, 3
+  size: 299, 281
+  orig: 299, 281
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 696, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 862, 7
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+holevind
+  rotate: false
+  xy: 812, 6
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: true
+  xy: 660, 117
+  size: 167, 127
+  orig: 167, 127
+  offset: 0, 0
+  index: -1
+root
+  rotate: false
+  xy: 789, 127
+  size: 161, 66
+  orig: 161, 66
+  offset: 0, 0
+  index: -1
+root2
+  rotate: true
+  xy: 912, 82
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+trunk
+  rotate: false
+  xy: 812, 39
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1

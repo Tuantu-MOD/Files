@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+	<info id ="120003">
+
+		<narration action="move">
+			{미소}
+		</narration>
+
+		<narration action="mid1">
+			[
+			{작업 중 1}
+			{#0 :: 직원},
+			<!-- 여러개 해도 됨. -->
+			]
+		</narration>
+
+		<narration action="mid2">
+			[
+			{작업 중 2}
+			{$0 :: 환상체},
+			]
+		</narration>
+
+		<narration action="mid3">
+			[
+			{작업중 3},
+			]
+		</narration>
+	</info>
+<!--  -->
+	<observe level ="4">
+		<collection>
+		<!-- (관찰 레벨) -->
+			<codeNo openLevel ="0">코드번호</codeNo>
+			<name openLevel ="1">환상체 이름(관찰 레벨 증가에 따른 변화는 openLevel으로 조정하면 됨)</name>
+			<portrait openLevel ="1">Custom/초상화파일이름(확장자 제외함)</portrait>
+			<riskLevel openLevel ="1">환상체 등급</riskLevel>
+			<openText>선택할 때 나오는 문구</openText>
+		</collection>
+
+	<!-- 투안투가 스토리 쓰기 싫어서 사실상 스토리 없음 -->
+	<desc id="1" openLevel="0">
+	[{환상체 스토리}]
+	</desc>
+
+	<desc id="2" openLevel="1">
+	[{환상체 스토리}]
+	</desc>
+
+	<desc id="3" openLevel="2">
+	[{환상체 스토리}]
+	</desc>
+			<!-- size는 관리봅의 총 개수 -->
+		<specialTipSize size="3">
+		<!-- key는 관리법 번호 -->
+			<specialTip openLevel="0" key="0">관리법1</specialTip>
+			<specialTip openLevel="1" key="1">관리법2</specialTip>
+			<specialTip openLevel="2" key="2">관리법3</specialTip>
+		<!-- 추가하면 됨 -->
+		</specialTipSize>
+	</observe>
+</creature>

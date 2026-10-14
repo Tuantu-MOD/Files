@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+   <text id="RetroBrick_weapon_name">레트로 소드</text>
+   <text id="RetroBrick_weapon_desc">역사적 기록 어디에서도 그 검이 등장한 적은 없지만, 그것이 바로 그 시대의 산물처럼 느껴지며 '상징적인' 존재라고 생각하게 된다.</text>
+
+   <text id="RetroBrick_armor_name">레트로 슈트</text>
+   <text id="RetroBrick_armor_desc">별다른 화려한 거은 없지만, 그저 오래전과 같이 단순합니다. 마치 더 평화로운 시간처럼...</text>
+
+   <text id="RetroBrick_gift_name">레트로 모자</text>
+   <text id="RetroBrick_gift_desc">지해 +2
+   과거의 모자</text>
+</localize>

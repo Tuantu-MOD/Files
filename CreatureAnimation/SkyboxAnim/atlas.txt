@@ -1,0 +1,27 @@
+
+Skybox.png
+size: 1554,1073
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 1255, 1069
+  orig: 1255, 1069
+  offset: 0, 0
+  index: -1
+Box1
+  rotate: true
+  xy: 1259, 734
+  size: 337, 293
+  orig: 337, 293
+  offset: 0, 0
+  index: -1
+Box2
+  rotate: false
+  xy: 1259, 505
+  size: 186, 227
+  orig: 186, 227
+  offset: 0, 0
+  index: -1

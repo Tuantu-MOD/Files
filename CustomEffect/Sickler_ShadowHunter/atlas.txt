@@ -1,0 +1,118 @@
+
+ShadowHunter.png
+size: 424,2268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm1
+  rotate: false
+  xy: 2, 370
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: true
+  xy: 191, 23
+  size: 146, 123
+  orig: 146, 123
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 339, 992
+  size: 141, 41
+  orig: 141, 41
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 316, 60
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+L_leg1
+  rotate: false
+  xy: 267, 624
+  size: 153, 207
+  orig: 153, 207
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: true
+  xy: 2, 2
+  size: 148, 187
+  orig: 148, 187
+  offset: 0, 0
+  index: -1
+R_arm1
+  rotate: true
+  xy: 156, 171
+  size: 197, 164
+  orig: 197, 164
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: true
+  xy: 322, 218
+  size: 167, 95
+  orig: 167, 95
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 339, 1135
+  size: 145, 44
+  orig: 145, 44
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 267, 551
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+R_leg1
+  rotate: true
+  xy: 219, 387
+  size: 162, 203
+  orig: 162, 203
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 2, 152
+  size: 152, 216
+  orig: 152, 216
+  offset: 0, 0
+  index: -1
+Scythe
+  rotate: false
+  xy: 2, 1282
+  size: 419, 984
+  orig: 419, 984
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 833
+  size: 335, 447
+  orig: 426, 455
+  offset: 91, 0
+  index: -1
+eye
+  rotate: false
+  xy: 322, 189
+  size: 95, 27
+  orig: 95, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 551
+  size: 263, 280
+  orig: 263, 281
+  offset: 0, 0
+  index: -1

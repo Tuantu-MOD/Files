@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+<equipment id="9200001" type="weapon">
+    <name>Wishroot_weapon_name</name>
+    <desc>Wishroot_weapon_desc</desc>
+    <specialDesc>Wishroot_weapon_sp_desc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>DangoCreature_Wishroot</sprite>
+    <specialWeaponAnim>DangoCreatureWeapon_Wishroot</specialWeaponAnim>
+
+    <animation>AttackNormal</animation>
+    <animation>AttackSpecial</animation>
+    <animation>AttackTrans1</animation>
+    <animation>AttackTrans2</animation>
+
+    <require type="R">3</require>
+    <require type="P">3</require>
+
+    <damage type="P" min="9" max="12">
+    </damage>
+    <damage type="P" min="14" max="20">
+
+      <effectInfo type="damage">
+
+        <src>Custom/Wishroot_Spike</src>
+        
+        <pos>
+          <x>0</x>
+          <y>-1.4</y>
+        </pos>
+
+        <rot>0</rot>
+        <unscaled>false</unscaled>
+        <attach>victim</attach>
+        <lifetime>1</lifetime>
+      </effectInfo>
+
+    </damage>
+    <damage type="P" min="7" max="9">
+    </damage>
+    <damage type="P" min="35" max="35">
+    </damage>
+
+    <range>4</range>
+
+    <script>WishrootWeapon</script>
+    <maxNum>2</maxNum>
+    <attackSpeed>5</attackSpeed>
+    <grade>4</grade>
+  </equipment>
+
+  <equipment id="9200002" type="armor">
+    <name>Wishroot_armor_name</name>
+    <desc>Wishroot_armor_desc</desc>
+
+    <require type="R">3</require>
+    <require type="level">3</require>
+
+    <armorId>900000</armorId>
+
+    <defense>
+      <defenseElement type="R">0.8</defenseElement>
+      <defenseElement type="W">0.6</defenseElement>
+      <defenseElement type="B">1.2</defenseElement>
+      <defenseElement type="P">0.8</defenseElement>
+    </defense>
+
+    <grade>4</grade>
+    <maxNum>3</maxNum>
+  </equipment>
+
+  <equipment id="9200003" type="special">
+    <name>Wishroot_gift_name</name>
+    <desc>Wishroot_gift_desc</desc>
+    <attachPos>head</attachPos>
+    <attachType>add</attachType>
+
+    <bonus>
+      <mental>4</mental>
+      <movement>1</movement>
+    </bonus>
+
+    <sprite>Wishroot_gift</sprite>
+
+  </equipment>
+</equipment_list>

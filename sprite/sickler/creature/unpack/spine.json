@@ -1,0 +1,325 @@
+{
+  "skeleton": {
+    "images": "/Users/dgsw45/Desktop/LC/A_Tuantu_MOD/sprite/sickler/creature/unpack"
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "chain4",
+      "bone": "root",
+      "attachment": "chain4"
+    },
+    {
+      "name": "R_foot",
+      "bone": "root",
+      "attachment": "R_foot"
+    },
+    {
+      "name": "R_leg2",
+      "bone": "root",
+      "attachment": "R_leg2"
+    },
+    {
+      "name": "R_leg1",
+      "bone": "root",
+      "attachment": "R_leg1"
+    },
+    {
+      "name": "L_foot",
+      "bone": "root",
+      "attachment": "L_foot"
+    },
+    {
+      "name": "L_leg2",
+      "bone": "root",
+      "attachment": "L_leg2"
+    },
+    {
+      "name": "L_leg1",
+      "bone": "root",
+      "attachment": "L_leg1"
+    },
+    {
+      "name": "chain3",
+      "bone": "root",
+      "attachment": "chain3"
+    },
+    {
+      "name": "R_hand",
+      "bone": "root",
+      "attachment": "R_hand"
+    },
+    {
+      "name": "R_arm2",
+      "bone": "root",
+      "attachment": "R_arm2"
+    },
+    {
+      "name": "R_arm1",
+      "bone": "root",
+      "attachment": "R_arm1"
+    },
+    {
+      "name": "body",
+      "bone": "root",
+      "attachment": "body"
+    },
+    {
+      "name": "chain1",
+      "bone": "root",
+      "attachment": "chain1"
+    },
+    {
+      "name": "chain2",
+      "bone": "root",
+      "attachment": "chain2"
+    },
+    {
+      "name": "L_arm1",
+      "bone": "root",
+      "attachment": "L_arm1"
+    },
+    {
+      "name": "L_arm2",
+      "bone": "root",
+      "attachment": "L_arm2"
+    },
+    {
+      "name": "L_hand",
+      "bone": "root",
+      "attachment": "L_hand"
+    },
+    {
+      "name": "head",
+      "bone": "root",
+      "attachment": "head"
+    },
+    {
+      "name": "shackles_body",
+      "bone": "root",
+      "attachment": "shackles_body"
+    },
+    {
+      "name": "shackles_head",
+      "bone": "root",
+      "attachment": "shackles_head"
+    },
+    {
+      "name": "crown",
+      "bone": "root",
+      "attachment": "crown"
+    },
+    {
+      "name": "eye",
+      "bone": "root",
+      "attachment": "eye"
+    }
+  ],
+  "skins": {
+    "default": {
+      "chain4": {
+        "chain4": {
+          "x": 1153.5,
+          "y": -1374.0,
+          "rotation": 0,
+          "width": 477,
+          "height": 266
+        }
+      },
+      "R_foot": {
+        "R_foot": {
+          "x": 1240.5,
+          "y": -1731.5,
+          "rotation": 0,
+          "width": 207,
+          "height": 63
+        }
+      },
+      "R_leg2": {
+        "R_leg2": {
+          "x": 1241.5,
+          "y": -1571.0,
+          "rotation": 0,
+          "width": 217,
+          "height": 308
+        }
+      },
+      "R_leg1": {
+        "R_leg1": {
+          "x": 1251.0,
+          "y": -1361.0,
+          "rotation": 0,
+          "width": 232,
+          "height": 290
+        }
+      },
+      "L_foot": {
+        "L_foot": {
+          "x": 981.5,
+          "y": -1742.0,
+          "rotation": 0,
+          "width": 201,
+          "height": 58
+        }
+      },
+      "L_leg2": {
+        "L_leg2": {
+          "x": 988.0,
+          "y": -1602.5,
+          "rotation": 0,
+          "width": 212,
+          "height": 267
+        }
+      },
+      "L_leg1": {
+        "L_leg1": {
+          "x": 997.0,
+          "y": -1361.5,
+          "rotation": 0,
+          "width": 216,
+          "height": 295
+        }
+      },
+      "chain3": {
+        "chain3": {
+          "x": 1117.0,
+          "y": -1422.0,
+          "rotation": 0,
+          "width": 548,
+          "height": 374
+        }
+      },
+      "R_hand": {
+        "R_hand": {
+          "x": 1797.5,
+          "y": -725.5,
+          "rotation": 0,
+          "width": 99,
+          "height": 101
+        }
+      },
+      "R_arm2": {
+        "R_arm2": {
+          "x": 1677.0,
+          "y": -717.0,
+          "rotation": 0,
+          "width": 238,
+          "height": 136
+        }
+      },
+      "R_arm1": {
+        "R_arm1": {
+          "x": 1453.0,
+          "y": -709.0,
+          "rotation": 0,
+          "width": 282,
+          "height": 234
+        }
+      },
+      "body": {
+        "body": {
+          "x": 1070.0,
+          "y": -921.0,
+          "rotation": 0,
+          "width": 608,
+          "height": 650
+        }
+      },
+      "chain1": {
+        "chain1": {
+          "x": 1097.5,
+          "y": -929.0,
+          "rotation": 0,
+          "width": 423,
+          "height": 612
+        }
+      },
+      "chain2": {
+        "chain2": {
+          "x": 1176.0,
+          "y": -905.5,
+          "rotation": 0,
+          "width": 454,
+          "height": 575
+        }
+      },
+      "L_arm1": {
+        "L_arm1": {
+          "x": 811.5,
+          "y": -728.0,
+          "rotation": 0,
+          "width": 307,
+          "height": 256
+        }
+      },
+      "L_arm2": {
+        "L_arm2": {
+          "x": 569.5,
+          "y": -753.0,
+          "rotation": 0,
+          "width": 209,
+          "height": 176
+        }
+      },
+      "L_hand": {
+        "L_hand": {
+          "x": 358.0,
+          "y": -764.5,
+          "rotation": 0,
+          "width": 228,
+          "height": 151
+        }
+      },
+      "head": {
+        "head": {
+          "x": 1116.0,
+          "y": -468.5,
+          "rotation": 0,
+          "width": 418,
+          "height": 451
+        }
+      },
+      "shackles_body": {
+        "shackles_body": {
+          "x": 1144.0,
+          "y": -936.0,
+          "rotation": 0,
+          "width": 534,
+          "height": 696
+        }
+      },
+      "shackles_head": {
+        "shackles_head": {
+          "x": 1116.0,
+          "y": -498.5,
+          "rotation": 0,
+          "width": 368,
+          "height": 237
+        }
+      },
+      "crown": {
+        "crown": {
+          "x": 1119.0,
+          "y": -435.5,
+          "rotation": 0,
+          "width": 342,
+          "height": 151
+        }
+      },
+      "eye": {
+        "eye": {
+          "x": 1167.5,
+          "y": -514.0,
+          "rotation": 0,
+          "width": 135,
+          "height": 38
+        }
+      }
+    }
+  },
+  "animations": {}
+}

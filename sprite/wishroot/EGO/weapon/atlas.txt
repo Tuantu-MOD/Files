@@ -1,0 +1,202 @@
+
+Wishroot_agent.png
+size: 821,1137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 614, 471
+  size: 103, 205
+  orig: 205, 205
+  offset: 51, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 614, 367
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 614, 263
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: false
+  xy: 506, 55
+  size: 102, 205
+  orig: 102, 205
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 295, 506
+  size: 111, 35
+  orig: 205, 102
+  offset: 46, 31
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 810, 1040
+  size: 95, 6
+  orig: 205, 102
+  offset: 52, 48
+  index: -1
+HairBack
+  rotate: true
+  xy: 274, 2
+  size: 182, 230
+  orig: 205, 410
+  offset: 11, 91
+  index: -1
+HairFront
+  rotate: true
+  xy: 427, 337
+  size: 204, 185
+  orig: 205, 205
+  offset: 1, 7
+  index: -1
+Head
+  rotate: false
+  xy: 610, 96
+  size: 153, 165
+  orig: 205, 205
+  offset: 28, 21
+  index: -1
+L arm 1
+  rotate: true
+  xy: 610, 55
+  size: 39, 70
+  orig: 102, 102
+  offset: 29, 16
+  index: -1
+L arm 2
+  rotate: true
+  xy: 506, 5
+  size: 48, 72
+  orig: 102, 102
+  offset: 25, 16
+  index: -1
+L hand
+  rotate: true
+  xy: 747, 54
+  size: 40, 34
+  orig: 51, 51
+  offset: 5, 9
+  index: -1
+L leg 1
+  rotate: false
+  xy: 765, 112
+  size: 41, 75
+  orig: 102, 102
+  offset: 32, 10
+  index: -1
+L leg 2
+  rotate: true
+  xy: 682, 54
+  size: 40, 63
+  orig: 102, 102
+  offset: 31, 23
+  index: -1
+Mouth
+  rotate: true
+  xy: 765, 96
+  size: 14, 6
+  orig: 102, 102
+  offset: 45, 47
+  index: -1
+Note
+  rotate: false
+  xy: 427, 262
+  size: 86, 73
+  orig: 205, 205
+  offset: 55, 61
+  index: -1
+R arm 1
+  rotate: true
+  xy: 580, 15
+  size: 38, 70
+  orig: 102, 102
+  offset: 32, 17
+  index: -1
+R arm 2
+  rotate: false
+  xy: 765, 189
+  size: 47, 72
+  orig: 102, 102
+  offset: 27, 15
+  index: -1
+R hand
+  rotate: false
+  xy: 710, 12
+  size: 35, 40
+  orig: 51, 51
+  offset: 8, 6
+  index: -1
+R leg 1
+  rotate: true
+  xy: 515, 294
+  size: 41, 77
+  orig: 102, 102
+  offset: 28, 6
+  index: -1
+R leg 2
+  rotate: true
+  xy: 652, 7
+  size: 45, 56
+  orig: 102, 102
+  offset: 28, 24
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 427, 186
+  size: 56, 74
+  orig: 205, 205
+  offset: 74, 108
+  index: -1
+apple
+  rotate: false
+  xy: 2, 5
+  size: 270, 166
+  orig: 270, 166
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 2, 479
+  size: 291, 656
+  orig: 291, 656
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: true
+  xy: 234, 186
+  size: 291, 191
+  orig: 291, 191
+  offset: 0, 0
+  index: -1
+sling
+  rotate: false
+  xy: 2, 173
+  size: 230, 304
+  orig: 230, 304
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 538, 576
+  size: 270, 559
+  orig: 276, 559
+  offset: 0, 0
+  index: -1
+trunk
+  rotate: false
+  xy: 295, 543
+  size: 241, 592
+  orig: 241, 592
+  offset: 0, 0
+  index: -1
