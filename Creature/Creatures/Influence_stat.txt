@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<creature>
+  <script>인플루언서</script>
+  <stat>
+    <hp>1500</hp>
+    <riskLevel>5</riskLevel>
+    <maxWorkCount>1</maxWorkCount>
+    <workProb type="R">
+      <prob level="1">0.1</prob>
+      <prob level="2">0.15</prob>
+      <prob level="3">0.15</prob>
+      <prob level="4">0.25</prob>
+      <prob level="5">0.35</prob>
+    </workProb>
+    <workProb type="W">
+      <prob level="1">0.7</prob>
+      <prob level="2">0.6</prob>
+      <prob level="3">0.5</prob>
+      <prob level="4">0.4</prob>
+      <prob level="5">0.3</prob>
+    </workProb>
+    <workProb type="B">
+      <prob level="1">0</prob>
+      <prob level="2">0</prob>
+      <prob level="3">0</prob>
+      <prob level="4">0</prob>
+      <prob level="5">0</prob>
+    </workProb>
+    <workProb type="P">
+      <prob level="1">0</prob>
+      <prob level="2">0.15</prob>
+      <prob level="3">0.15</prob>
+      <prob level="4">0.2</prob>
+      <prob level="5">0.25</prob>
+    </workProb>
+    <qliphoth>3</qliphoth>
+    <workCooltime>2</workCooltime>
+	<escapeable>true</escapeable>
+    <feelingStateCubeBounds>
+      <cube>12</cube>
+      <cube>24</cube>
+      <cube>36</cube>
+    </feelingStateCubeBounds>
+    <workDamage type="B" min="3" max="7" />
+    <workSpeed>2</workSpeed>
+
+    <speed>0</speed>    <observeInfo total="98">
+      <observeElement name="stat" cost="30" />
+      <observeElement name="defense" cost="30" />
+      <observeElement name="work_r" cost="10" />
+      <observeElement name="work_w" cost="10" />
+      <observeElement name="work_b" cost="10" />
+      <observeElement name="work_p" cost="10" />        <observeElement name="care_0" cost="6" />        <observeElement name="care_1" cost="6" />        <observeElement name="care_2" cost="6" />        <observeElement name="care_3" cost="6" />        <observeElement name="care_4" cost="6" />        <observeElement name="care_5" cost="6" />        <observeElement name="care_6" cost="6" />        <observeElement name="care_7" cost="6" />        <observeElement name="care_8" cost="6" />    </observeInfo>
+    <observeBonus level="1" type="prob">4</observeBonus>
+    <observeBonus level="2" type="speed">4</observeBonus>
+    <observeBonus level="3" type="prob">4</observeBonus>
+    <observeBonus level="4" type="speed">4</observeBonus>
+    <defense id="1">
+      <defenseElement type="R">0.5</defenseElement>
+      <defenseElement type="W">0.5</defenseElement>
+      <defenseElement type="B">0.4</defenseElement>
+      <defenseElement type="P">1.2</defenseElement>
+    </defense>
+
+  </stat>
+  <graph>
+    <node id="creature" x="-1.5" y="-1.7" type="creature" />
+    <node id="workspace" x="1.9" y="-1.8" type="workspace" />
+    <node id="outter" x="0" y="0" type="outterDoor" />
+    <node id="inner" x="2" y="-1.8" type="innerDoor" />
+    <edge node1="workspace" node2="inner" type="road" />
+    <edge node1="creature" node2="workspace" type="road" />
+  </graph>
+  <anim prefab="Custom/인플루언서Anim" x="-1" y="-2" />
+  <portrait src="Unit/creature/magicalGirl" />
+</creature>
