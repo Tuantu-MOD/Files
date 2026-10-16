@@ -44,17 +44,19 @@
     <workDamage type="B" min="3" max="7" />
     <workSpeed>2</workSpeed>
 
-    <speed>0</speed>    <observeInfo total="98">
+    <speed>0</speed>    <observeInfo total="142">
       <observeElement name="stat" cost="30" />
       <observeElement name="defense" cost="30" />
       <observeElement name="work_r" cost="10" />
       <observeElement name="work_w" cost="10" />
       <observeElement name="work_b" cost="10" />
-      <observeElement name="work_p" cost="10" />        <observeElement name="care_0" cost="6" />        <observeElement name="care_1" cost="6" />        <observeElement name="care_2" cost="6" />        <observeElement name="care_3" cost="6" />        <observeElement name="care_4" cost="6" />        <observeElement name="care_5" cost="6" />        <observeElement name="care_6" cost="6" />        <observeElement name="care_7" cost="6" />        <observeElement name="care_8" cost="6" />    </observeInfo>
+      <observeElement name="work_p" cost="10" />        <observeElement name="care_0" cost="6" />        <observeElement name="care_1" cost="6" />        <observeElement name="care_2" cost="6" />        <observeElement name="care_3" cost="6" />        <observeElement name="care_4" cost="6" />        <observeElement name="care_5" cost="6" />        <observeElement name="care_6" cost="6" />    </observeInfo>
     <observeBonus level="1" type="prob">4</observeBonus>
     <observeBonus level="2" type="speed">4</observeBonus>
     <observeBonus level="3" type="prob">4</observeBonus>
     <observeBonus level="4" type="speed">4</observeBonus>
+    <equipment level="4" cost="255" equipId="9200020" />
+    
     <defense id="1">
       <defenseElement type="R">0.5</defenseElement>
       <defenseElement type="W">0.5</defenseElement>
@@ -73,4 +75,7 @@
   </graph>
   <anim prefab="Custom/InfluenceAnim" x="-1" y="-2" />
   <portrait src="Unit/creature/magicalGirl" />
+
+  <child>Influence_zerotwo_stat</child>
+  <child>EclipsedOfAce_stat</child>
 </creature>

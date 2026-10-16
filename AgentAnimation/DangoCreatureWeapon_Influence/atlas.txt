@@ -1,5 +1,5 @@
 
-Influence_agent.png
+json.png
 size: 311,576
 format: RGBA8888
 filter: Linear,Linear

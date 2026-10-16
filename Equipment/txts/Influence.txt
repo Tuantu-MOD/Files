@@ -8,11 +8,13 @@
     <weaponClassType>special</weaponClassType>
 
     <sprite>YinWeapon_Influence</sprite>
-    <specialWeaponAnim>DangoCreature_Influence</specialWeaponAnim>
+    <specialWeaponAnim>DangoCreatureWeapon_Influence</specialWeaponAnim>
     <animation>Attack</animation>
     <animation>Attack_Spike</animation>
 
     <damage type="B" min="15" max="20">
+    </damage>
+    <damage type="B" min="10" max="15">
     </damage>
 
 
