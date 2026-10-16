@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<creature>
+  <stat>
+    <hp>1000</hp>
+    <speed>33</speed>
+    <defense id="1">
+      <defenseElement type="R">0.5</defenseElement>
+      <defenseElement type="W">0.4</defenseElement>
+      <defenseElement type="B">0.3</defenseElement>
+      <defenseElement type="P">1.3</defenseElement>
+    </defense>
+  </stat>
+
+  <anim prefab="Custom/EclipsedOfAceAnim" x="-1" y="-2"/>
+
+  <attackType openLevel="1">Black</attackType>
+  <riskLevel openLevel="1">ALEPH</riskLevel>
+
+  <script>EclipsedOfAce</script>
+</creature>

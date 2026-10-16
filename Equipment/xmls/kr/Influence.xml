@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+   <text id="Influence_weapon_name">공허한 공간</text>
+   <text id="Influence_weapon_desc">...</text>
+   <text id="Influence_weapon_specialdesc">
+   -일정 시간마다 특수한 스킬을 사용합니다.
+   -땅을 찔러 5개의 가시를 소환하여 피해를 입히고 접촉시 추가 피해를 입힙니다.
+   </text>
+</localize>

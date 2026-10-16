@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="9200020" type="weapon">
+    <name>Influence_weapon_name</name>
+    <desc>Influence_weapon_desc</desc>
+    <specialDesc>Influence_weapon_specialdesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>DangoCreature_VoidSpace</sprite>
+    <specialWeaponAnim>DangoCreatureWeapon_Influence</specialWeaponAnim>
+    <animation>Attack</animation>
+    <animation>Attack_Spike</animation>
+
+    <damage type="B" min="15" max="20">
+    </damage>
+
+
+    <range>5</range>
+
+
+    <script>InfluenceWeapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>8</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+</equipment_list>

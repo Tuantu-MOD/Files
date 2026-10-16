@@ -1,0 +1,118 @@
+
+spine.png
+size: 929,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 693, 254
+  size: 119, 170
+  orig: 122, 170
+  offset: 1, 0
+  index: -1
+Coat
+  rotate: false
+  xy: 2, 3
+  size: 386, 370
+  orig: 386, 370
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 823, 226
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Head.png
+  rotate: false
+  xy: 768, 9
+  size: 114, 123
+  orig: 115, 124
+  offset: 0, 1
+  index: -1
+Head2
+  rotate: true
+  xy: 693, 134
+  size: 118, 128
+  orig: 163, 183
+  offset: 19, 26
+  index: -1
+LArm1
+  rotate: false
+  xy: 865, 301
+  size: 58, 72
+  orig: 62, 76
+  offset: 2, 2
+  index: -1
+LArm2
+  rotate: true
+  xy: 390, 2
+  size: 66, 81
+  orig: 69, 84
+  offset: 2, 1
+  index: -1
+LHand
+  rotate: true
+  xy: 880, 134
+  size: 44, 41
+  orig: 46, 45
+  offset: 1, 3
+  index: -1
+LLeg1
+  rotate: true
+  xy: 693, 80
+  size: 52, 73
+  orig: 55, 86
+  offset: 1, 2
+  index: -1
+LLeg2
+  rotate: true
+  xy: 473, 5
+  size: 63, 83
+  orig: 76, 88
+  offset: 13, 2
+  index: -1
+RArm1
+  rotate: false
+  xy: 865, 223
+  size: 53, 76
+  orig: 59, 79
+  offset: 2, 2
+  index: -1
+RArm2
+  rotate: true
+  xy: 646, 6
+  size: 62, 81
+  orig: 68, 86
+  offset: 1, 3
+  index: -1
+RHand
+  rotate: true
+  xy: 880, 180
+  size: 41, 47
+  orig: 44, 49
+  offset: 1, 0
+  index: -1
+RLeg1
+  rotate: false
+  xy: 823, 162
+  size: 55, 59
+  orig: 59, 63
+  offset: 2, 2
+  index: -1
+RLeg2
+  rotate: true
+  xy: 558, 8
+  size: 60, 86
+  orig: 67, 90
+  offset: 1, 2
+  index: -1
+weapon
+  rotate: false
+  xy: 390, 70
+  size: 301, 303
+  orig: 301, 303
+  offset: 0, 0
+  index: -1

@@ -1,167 +1,167 @@
 
 Influence_agent.png
-size: 637,155
+size: 311,576
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Body
   rotate: false
-  xy: 338, 12
+  xy: 223, 154
   size: 59, 115
   orig: 115, 115
   offset: 28, 0
   index: -1
 CoatBack
-  rotate: false
-  xy: 399, 12
+  rotate: true
+  xy: 106, 105
   size: 58, 115
   orig: 58, 115
   offset: 0, 0
   index: -1
 CoatLeft
-  rotate: false
-  xy: 459, 38
+  rotate: true
+  xy: 90, 45
   size: 58, 115
   orig: 58, 115
   offset: 0, 0
   index: -1
 CoatRight
   rotate: false
-  xy: 519, 38
+  xy: 223, 37
   size: 58, 115
   orig: 58, 115
   offset: 0, 0
   index: -1
 Eye
-  rotate: false
-  xy: 2, 3
+  rotate: true
+  xy: 284, 207
   size: 62, 20
   orig: 115, 58
   offset: 26, 18
   index: -1
 EyeBrow
-  rotate: false
-  xy: 250, 29
+  rotate: true
+  xy: 305, 521
   size: 53, 4
   orig: 115, 58
   offset: 29, 27
   index: -1
 HairBack
-  rotate: true
-  xy: 2, 25
+  rotate: false
+  xy: 2, 140
   size: 102, 129
   orig: 115, 230
   offset: 6, 51
   index: -1
 HairFront
   rotate: false
-  xy: 133, 23
+  xy: 106, 165
   size: 115, 104
   orig: 115, 115
   offset: 0, 4
   index: -1
 Head
   rotate: false
-  xy: 250, 35
+  xy: 2, 46
   size: 86, 92
   orig: 115, 115
   offset: 16, 12
   index: -1
 L arm 1
   rotate: true
-  xy: 285, 4
+  xy: 221, 12
   size: 23, 40
   orig: 58, 58
   offset: 16, 9
   index: -1
 L arm 2
-  rotate: true
-  xy: 579, 39
+  rotate: false
+  xy: 112, 2
   size: 27, 41
   orig: 58, 58
   offset: 14, 9
   index: -1
 L hand
-  rotate: false
-  xy: 428, 133
+  rotate: true
+  xy: 263, 12
   size: 23, 20
   orig: 29, 29
   offset: 3, 5
   index: -1
 L leg 1
-  rotate: true
-  xy: 505, 12
+  rotate: false
+  xy: 36, 2
   size: 24, 42
   orig: 58, 58
   offset: 18, 6
   index: -1
 L leg 2
-  rotate: true
-  xy: 549, 12
+  rotate: false
+  xy: 283, 116
   size: 24, 36
   orig: 58, 58
   offset: 17, 13
   index: -1
 Mouth
-  rotate: true
-  xy: 629, 144
+  rotate: false
+  xy: 90, 135
   size: 9, 3
   orig: 58, 58
   offset: 25, 27
   index: -1
 Note
   rotate: false
-  xy: 579, 112
+  xy: 62, 2
   size: 48, 41
   orig: 115, 115
   offset: 31, 34
   index: -1
 R arm 1
   rotate: false
-  xy: 613, 69
+  xy: 170, 2
   size: 22, 41
   orig: 58, 58
   offset: 18, 9
   index: -1
 R arm 2
-  rotate: true
-  xy: 587, 10
+  rotate: false
+  xy: 141, 2
   size: 27, 41
   orig: 58, 58
   offset: 15, 9
   index: -1
 R hand
-  rotate: true
-  xy: 66, 2
+  rotate: false
+  xy: 283, 91
   size: 21, 23
   orig: 29, 29
   offset: 4, 3
   index: -1
 R leg 1
-  rotate: true
-  xy: 459, 13
+  rotate: false
+  xy: 284, 161
   size: 23, 44
   orig: 58, 58
   offset: 16, 3
   index: -1
 R leg 2
-  rotate: true
-  xy: 250, 2
+  rotate: false
+  xy: 194, 2
   size: 25, 33
   orig: 58, 58
   offset: 16, 13
   index: -1
 Weapon_Fist_Left
   rotate: false
-  xy: 579, 68
+  xy: 2, 2
   size: 32, 42
   orig: 115, 115
   offset: 41, 60
   index: -1
 weapon
   rotate: false
-  xy: 2, 129
-  size: 424, 24
-  orig: 424, 24
+  xy: 2, 271
+  size: 301, 303
+  orig: 301, 303
   offset: 0, 0
   index: -1

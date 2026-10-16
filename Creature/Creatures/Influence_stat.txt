@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <creature>
-  <script>인플루언서</script>
+  <script>Influence</script>
   <stat>
     <hp>1500</hp>
     <riskLevel>5</riskLevel>
@@ -71,6 +71,6 @@
     <edge node1="workspace" node2="inner" type="road" />
     <edge node1="creature" node2="workspace" type="road" />
   </graph>
-  <anim prefab="Custom/인플루언서Anim" x="-1" y="-2" />
+  <anim prefab="Custom/InfluenceAnim" x="-1" y="-2" />
   <portrait src="Unit/creature/magicalGirl" />
 </creature>
