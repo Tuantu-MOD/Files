@@ -7,8 +7,8 @@
 
     <weaponClassType>special</weaponClassType>
 
-    <sprite>DangoCreature_VoidSpace</sprite>
-    <specialWeaponAnim>DangoCreatureWeapon_Influence</specialWeaponAnim>
+    <sprite>YinWeapon_Influence</sprite>
+    <specialWeaponAnim>DangoCreature_Influence</specialWeaponAnim>
     <animation>Attack</animation>
     <animation>Attack_Spike</animation>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <creature_list>
-    <creature src="Influence">
+    <creature src="Influence" name="Influence" id="120007">
     <stat>Influence_stat</stat>
     </creature>
 </creature_list>
