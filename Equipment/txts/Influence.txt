@@ -7,7 +7,7 @@
 
     <weaponClassType>special</weaponClassType>
 
-    <sprite>YinWeapon_Influence</sprite>
+    <sprite>DangoCreature_Influence</sprite>
     <specialWeaponAnim>DangoCreatureWeapon_Influence</specialWeaponAnim>
     <animation>Attack</animation>
     <animation>Attack_Spike</animation>
@@ -40,7 +40,7 @@
       <defenseElement type="P">0.8</defenseElement>
     </defense>
 
-    <grade>4</grade>
+    <grade>5</grade>
     <maxNum>1</maxNum>
 
   </equipment>
