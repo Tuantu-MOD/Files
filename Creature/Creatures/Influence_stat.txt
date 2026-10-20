@@ -56,7 +56,8 @@
     <observeBonus level="3" type="prob">4</observeBonus>
     <observeBonus level="4" type="speed">4</observeBonus>
     <equipment level="4" cost="255" equipId="9200020" />
-    
+    <equipment level="4" cost="166" equipId="9200023" />
+    <equipment level="3" prob="0.04" equipId="9200021" />
     <defense id="1">
       <defenseElement type="R">0.5</defenseElement>
       <defenseElement type="W">0.5</defenseElement>
@@ -75,7 +76,6 @@
   </graph>
   <anim prefab="Custom/InfluenceAnim" x="-1" y="-2" />
   <portrait src="Unit/creature/magicalGirl" />
-
   <child>Influence_zerotwo_stat</child>
   <child>EclipsedOfAce_stat</child>
 </creature>
